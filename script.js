@@ -1,6 +1,7 @@
 // SnipeClock Func
 
 console.log("︻デ═一");
+console.log("SnipeClock made by 5R7");
 
 Number.prototype.pad = function(n) {
   for (var r = this.toString(); r.length < n; r = 0 + r);
